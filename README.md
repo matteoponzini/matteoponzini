@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 
-### Hi there, I'm Matteo - aka [Matteo][linkedin] 👋 
+### Hi there, I'm [Matteo][linkedin] 👋 
 
 
 
