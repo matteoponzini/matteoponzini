@@ -16,8 +16,7 @@ Oh, I forgot, I also create this organization with the help of some friends, giv
 
 </a>
 
-These are my social networks 
-<img width="40px"  align="center" src="https://raw.githubusercontent.com/matteoponzini/matteoponzini/master/images/social.png?sanitize=true&raw=true"/>
+## These are my social networks <img width="40px"  align="center" src="https://raw.githubusercontent.com/matteoponzini/matteoponzini/master/images/social.png?sanitize=true&raw=true"/>
 
 - <img align="center" width="30px" src="https://raw.githubusercontent.com/matteoponzini/matteoponzini/master/images/github.png?sanitize=true&raw=true"/> [Github][github], where I enjoy doing things!  if you have come this far, I would tell you that you already have this information 👨‍💻
 
@@ -27,7 +26,7 @@ These are my social networks
 - [My website][website], where I write something professional sometimes ✍️
 
 
-I’m currently learning ...
+## I’m currently learning
 
 I'm trying to deepen algorithms and data structures.
 I'm also trying something on [alogoexpert] and [leetcode].
