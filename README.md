@@ -1,88 +1,69 @@
-### Hi there, I'm [Matteo][allLink] 👋 
+# Matteo Ponzini
 
-This is my [GitHub][github] repository, here I enjoy doing some things!
+**Associate Engineering Manager @ [Satispay](https://www.satispay.com)** — guido team che costruiscono sistemi di pagamento ad alto volume e alta criticità.
 
-The projects I'm focused on now are these:
-- [Data structures && Algorithms][data-structures-algorithms]
-- [K8s][k8s-book]
-- [Cluster of RaspberryPI][clusterRaspberry]
-- [Microservices with Spring][springmicroservices]
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://matteoponzini.github.io/matteoponzini/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matteoponzini/)
+[![Website](https://img.shields.io/badge/Website-1a1a1a?style=for-the-badge&logo=safari&logoColor=white)](https://www.matteoponzini.it/)
 
-Oh, I forgot, I also create this organization with the help of some friends, give us a look if you like! 
-[PowerXon][powerxon]
-<br>
-<a href="https://github.com/powerxon">
-<img src="https://raw.githubusercontent.com/matteoponzini/matteoponzini/master/images/b9c2ba44325a4a609270b9c7b34cf76a.png?sanitize=true&raw=true" />
+---
 
-</a>
+## Chi sono
 
-## These are my social networks <img width="40px"  align="center" src="https://raw.githubusercontent.com/matteoponzini/matteoponzini/master/images/social.png?sanitize=true&raw=true"/>
+Engineering manager con background da sviluppatore backend. Lavoro su sistemi complessi ad alto volume, con un approccio pratico e basi solide in Java, sistemi distribuiti e cloud. Credo in una leadership che investe sulle persone e nell'autonomia dei team.
 
-- <img align="center" width="30px" src="https://raw.githubusercontent.com/matteoponzini/matteoponzini/master/images/github.png?sanitize=true&raw=true"/> [Github][github], where I enjoy doing things!  if you have come this far, I would tell you that you already have this information 👨‍💻
+## Cosa sto facendo ora
 
-- <img  align="center" width="40px" src="https://raw.githubusercontent.com/matteoponzini/matteoponzini/master/images/linkedin.png?sanitize=true&raw=true"/> [Linkedin][linkedin], there are more professional 🤵
-- <img align="center" src="https://raw.githubusercontent.com/matteoponzini/matteoponzini/master/images/twitter.png?sanitize=true&raw=true" width="30px" /> &nbsp; [Twitter][twitter], I making memes! 🥳
+**Associate Engineering Manager, Consumer Payments — Satispay** (2024 → oggi)
 
-- [My website][website], where I write something professional sometimes ✍️
+- Guido il team che costruisce le feature di pagamento per **~750K pagamenti/giorno** (23M+ al mese)
+- Portato un prodotto **BNPL** da zero a produzione in **meno di 6 mesi**, oggi live per **2.69M utenti eleggibili**
+- Ridisegnato la pipeline notturna dei ricaddebiti SDD: **6 ore → 1 ora (6x)** su ~2.5M ricariche/notte
+- Lanciato e scalato end-to-end: Gift Card, gestione automatica SDD, ricariche, pagamenti offline (HOTP)
+- Sto sperimentando un workflow **AI-assisted "analysis-first"** con Claude Code
 
+## Percorso professionale
 
-## I’m currently learning
+| Periodo | Ruolo | Azienda |
+|---|---|---|
+| 2024 — oggi | Associate Engineering Manager, Consumer Payments | Satispay |
+| 2023 — 2024 | Software Engineer, User Registration & Verification | Satispay |
+| 2022 | Software Engineer, Flight Search Area | lastminute.com |
+| 2020 — 2022 | Backend Developer, SME Banking | Fabrick |
 
-I'm trying to deepen algorithms and data structures.
-I'm also trying something on [alogoexpert] and [leetcode].
-I know I might suck but hey I'm getting better!
-**trust me!**
+Dettagli completi (impatto, stack, contesto) sul [portfolio](https://matteoponzini.github.io/matteoponzini/#experience).
 
-here you can see [my progress][datastructure].
+## Stack
 
-Microservices: 
-- now i'm reading this books: 
-  - [Microservices]
-  - [Microsrevices with Spring][microservicesSpring]
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 
-K8s: 
-- now i'm reading this book: [K8s]
+**Leadership** · Engineering Management, roadmap execution, stakeholder alignment, performance management
+**Pratiche** · GitHub Flow, GitFlow, E2E Testing, Agile, operatività in produzione, open banking, pagamenti
 
-<br>
+## Prodotti su cui ho lavorato
 
-## Technologies that I have most interest are:
+- [Paga in Tre — BNPL](https://www.satispay.com/it-it/privati/pagamenti/paga-in-tre/) · Satispay
+- [Gift Card](https://www.satispay.com/it-it/privati/gift-card/) · Satispay
+- [Budget](https://support.satispay.com/it/articles/budget-come-funziona) · Satispay
+- [SME Banking](https://www.fabrick.com/it-it/prodotti/sme-banking/) · Fabrick
 
-<img src="https://raw.githubusercontent.com/matteoponzini/matteoponzini/master/images/java.png?sanitize=true&raw=true"/> &nbsp;
-<img src="https://raw.githubusercontent.com/matteoponzini/matteoponzini/master/images/python.png?sanitize=true&raw=true"/> &nbsp;
-<img src="https://raw.githubusercontent.com/matteoponzini/matteoponzini/master/images/docker.png?sanitize=true&raw=true"/>
-&nbsp;
-<img src="https://raw.githubusercontent.com/matteoponzini/matteoponzini/master/images/K8s.png?sanitize=true&raw=true"/>
-&nbsp;
-<img src="https://raw.githubusercontent.com/matteoponzini/matteoponzini/master/images/raspberryPi.png?sanitize=true&raw=true"/>
-&nbsp;
-<img src="https://raw.githubusercontent.com/matteoponzini/matteoponzini/master/images/scala.png?sanitize=true&raw=true"/>
-&nbsp;
-<img src="https://raw.githubusercontent.com/matteoponzini/matteoponzini/master/images/IoT.png?sanitize=true&raw=true"/>&nbsp;
-<img width="60px" alt="Kong api gateway" src="https://raw.githubusercontent.com/matteoponzini/matteoponzini/master/images/kong.png?sanitize=true&raw=true" />
+## Progetti personali
 
-## In addition to technology, what interests do I have?
-I play paddel, I love TV series and read non-fiction, on my linked posts every now and then you can see what I read.
-of course I also like to travel I love to travel! and English!
+In arrivo — presto qui i link ai miei repository. Nel frattempo, dai un'occhiata alla sezione [progetti](https://matteoponzini.github.io/matteoponzini/#personal) del portfolio.
 
+## Formazione
 
+- B.Sc. Economics and Business Management Sciences — Università degli Studi di Milano (2026, in corso)
+- Diploma, Perito Informatico — ITIS G. Feltrinelli
 
-> I have not failed. I've just found 10,000 ways that won't work.
+## Contatti
 
+Per collaborazioni o nuove opportunità: [LinkedIn](https://www.linkedin.com/in/matteoponzini/) oppure passa dal [sito](https://matteoponzini.github.io/matteoponzini/#contact).
 
-[linkedin]: https://www.linkedin.com/in/matteo-ponzini/
-[website]: https://www.matteoponzini.it/
-[twitter]: https://twitter.com/matteoponzini99
-[github]: https://github.com/matteoponzini
-[powerxon]: https://github.com/powerxon
-[allLink]: https://linktr.ee/matteoponzini
-[datastructure]: https://github.com/matteoponzini/data-structures-algorithms
-[microservices]: https://leggi.amazon.it/kp/embed?asin=B09B5L4NVT&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_YQ67HB8WX4HG35NWZBG8
-[k8s]: https://www.manning.com/books/kubernetes-in-action
-[microservicesSpring]: https://www.manning.com/books/spring-microservices-in-action-second-edition?query=microservices
-[alogoexpert]:  https://www.algoexpert.io/
-[leetcode]: https://leetcode.com/matteoponzini/
-
-[data-structures-algorithms]: https://github.com/matteoponzini/data-structures-algorithms
-[springmicroservices]: https://github.com/matteoponzini/springmicroservices
-[k8s-book]: https://github.com/matteoponzini/k8s-book
-[clusterRaspberry]: https://github.com/matteoponzini/clusterRaspberry
+📍 Milano, Italia
