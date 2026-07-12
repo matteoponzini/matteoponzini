@@ -1,6 +1,6 @@
 # Matteo Ponzini
 
-**Associate Engineering Manager @ [Satispay](https://www.satispay.com)** — guido team che costruiscono sistemi di pagamento ad alto volume e alta criticità.
+Associate Engineering Manager at [Satispay](https://www.satispay.com), with a background as a backend developer.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://matteoponzini.github.io/matteoponzini/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matteoponzini/)
@@ -8,30 +8,30 @@
 
 ---
 
-## Chi sono
+## About
 
-Engineering manager con background da sviluppatore backend. Lavoro su sistemi complessi ad alto volume, con un approccio pratico e basi solide in Java, sistemi distribuiti e cloud. Credo in una leadership che investe sulle persone e nell'autonomia dei team.
+I work on high-volume, high-criticality systems and try to keep things simple and reliable. I care about hands-on leadership, giving teams autonomy, and solid technical foundations in Java, distributed systems and cloud.
 
-## Cosa sto facendo ora
+## Currently
 
-**Associate Engineering Manager, Consumer Payments — Satispay** (2024 → oggi)
+Associate Engineering Manager, Consumer Payments — Satispay (2024 → present)
 
-- Guido il team che costruisce le feature di pagamento per **~750K pagamenti/giorno** (23M+ al mese)
-- Portato un prodotto **BNPL** da zero a produzione in **meno di 6 mesi**, oggi live per **2.69M utenti eleggibili**
-- Ridisegnato la pipeline notturna dei ricaddebiti SDD: **6 ore → 1 ora (6x)** su ~2.5M ricariche/notte
-- Lanciato e scalato end-to-end: Gift Card, gestione automatica SDD, ricariche, pagamenti offline (HOTP)
-- Sto sperimentando un workflow **AI-assisted "analysis-first"** con Claude Code
+- Part of the team behind Satispay's payment features, handling ~750K payments/day
+- Helped take a Buy Now, Pay Later product from zero to production in under 6 months
+- Reworked the nightly SDD recharge pipeline, cutting the run time from 6 hours to 1
+- Shipped and scaled a few products end-to-end: Gift Card, automated SDD management, recharges, offline payments (HOTP)
+- Experimenting with an AI-assisted, analysis-first workflow using Claude Code
 
-## Percorso professionale
+## Experience
 
-| Periodo | Ruolo | Azienda |
+| Period | Role | Company |
 |---|---|---|
-| 2024 — oggi | Associate Engineering Manager, Consumer Payments | Satispay |
+| 2024 — present | Associate Engineering Manager, Consumer Payments | Satispay |
 | 2023 — 2024 | Software Engineer, User Registration & Verification | Satispay |
-| 2022 | Software Engineer, Flight Search Area | lastminute.com |
+| 2022 | Software Engineer, Flight Search | lastminute.com |
 | 2020 — 2022 | Backend Developer, SME Banking | Fabrick |
 
-Dettagli completi (impatto, stack, contesto) sul [portfolio](https://matteoponzini.github.io/matteoponzini/#experience).
+More context on each role on the [portfolio](https://matteoponzini.github.io/matteoponzini/#experience).
 
 ## Stack
 
@@ -43,27 +43,26 @@ Dettagli completi (impatto, stack, contesto) sul [portfolio](https://matteoponzi
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 
-**Leadership** · Engineering Management, roadmap execution, stakeholder alignment, performance management
-**Pratiche** · GitHub Flow, GitFlow, E2E Testing, Agile, operatività in produzione, open banking, pagamenti
+Also spend time on engineering management basics — roadmap execution, stakeholder alignment, performance conversations — and on team practices like GitHub Flow, GitFlow, E2E testing and Agile.
 
-## Prodotti su cui ho lavorato
+## A few things I've worked on
 
 - [Paga in Tre — BNPL](https://www.satispay.com/it-it/privati/pagamenti/paga-in-tre/) · Satispay
 - [Gift Card](https://www.satispay.com/it-it/privati/gift-card/) · Satispay
 - [Budget](https://support.satispay.com/it/articles/budget-come-funziona) · Satispay
 - [SME Banking](https://www.fabrick.com/it-it/prodotti/sme-banking/) · Fabrick
 
-## Progetti personali
+## Personal projects
 
-In arrivo — presto qui i link ai miei repository. Nel frattempo, dai un'occhiata alla sezione [progetti](https://matteoponzini.github.io/matteoponzini/#personal) del portfolio.
+Coming soon — I'll link my repositories here once they're in decent shape. In the meantime, there's a placeholder on the [portfolio](https://matteoponzini.github.io/matteoponzini/#personal).
 
-## Formazione
+## Education
 
-- B.Sc. Economics and Business Management Sciences — Università degli Studi di Milano (2026, in corso)
+- B.Sc. Economics and Business Management Sciences — Università degli Studi di Milano (2026, in progress)
 - Diploma, Perito Informatico — ITIS G. Feltrinelli
 
-## Contatti
+## Get in touch
 
-Per collaborazioni o nuove opportunità: [LinkedIn](https://www.linkedin.com/in/matteoponzini/) oppure passa dal [sito](https://matteoponzini.github.io/matteoponzini/#contact).
+Open to talking about collaborations or new opportunities — [LinkedIn](https://www.linkedin.com/in/matteoponzini/) or through the [site](https://matteoponzini.github.io/matteoponzini/#contact).
 
-📍 Milano, Italia
+📍 Milan, Italy
